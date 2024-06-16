@@ -1,0 +1,38 @@
+#btt11{
+  color:white;
+  margin-left: 600px;
+  
+  font-weight: bolder;
+  
+}
+.bbt{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+
+  margin: 30px;
+  padding: 20px;
+  width: 350px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(3, 211, 176);
+  text-shadow: 10px;
+
+}
+#hh{
+  text-align: center;
+  color: white;
+}
+#tab{
+  color: white;
+  font-size: larger;
+  margin: auto;
+  margin-bottom: 20px;
+}
+tr ,td,table{
+  border: 2px solid wheat;
+}
+#bb{
+ margin: auto;
+}

@@ -1,0 +1,23 @@
+table,th,td{
+  border: 1px solid rgb(177, 144, 144);
+   border-collapse: collapse;
+   text-align: center;
+   
+ } 
+ 
+ 
+ 
+ a{
+   text-decoration: none;
+ }
+ 
+ table{
+   width: fit-content;
+ }
+ 
+ tr:hover{
+   background-color:aquamarine;
+ }
+ #ddd{
+   margin-left: 510px;
+ }
