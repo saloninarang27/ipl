@@ -18,7 +18,3 @@ The **IPL Dashboard** is an interactive web application that provides detailed i
 - **API Integration:** Custom-built REST APIs for fetching IPL data
 - **Deployment:** Hosted on platforms like Vercel, Netlify, or Firebase
 
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ipl-dashboard.git
